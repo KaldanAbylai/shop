@@ -1,0 +1,141 @@
+*{
+    inset: 0;
+    padding: 0;
+    margin: 0;
+    text-decoration: none !important;
+    color: #363A45;
+    ;
+}
+body{
+    border-top: inset 7px #00ff77;
+}
+.navbar{
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+@media (min-width:768px) and (max-width:1200px) {
+    .navbar{
+        font-size: 1.3vw;
+    }
+}
+#support{
+    margin-left: 40px;
+}
+.sup_pay{
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fon{
+    background-color: rgb(241, 239, 239);
+    border: black 1px;
+    padding-top: 10px;
+    align-items: center;
+}
+svg{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.car_img {
+    display: flex;
+    justify-content: center; 
+}
+.carusel{
+    display: inline-block;
+}
+.carusel_img{
+    border-radius: 50%;
+}
+.category{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    margin-left: 80px;
+    padding-top: 50px;
+}
+.card_phone{
+    height: 400px;
+    width: 214px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 16px 3px #363A4514;
+
+}
+.smart{
+    font-size: 12px;
+    color: #DADCDC;
+}
+.many{
+    color: #00ff77;
+    font-size: 18px;
+    font-weight: 700;
+}
+.znak{
+    font-size: 12px;
+
+}
+.shop_btn{
+    width: 174px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 16px 3px #363A4514;
+    border: none;
+    background: #FFFFFF;
+    margin-top: 30px;
+}
+.img-fluid_1{
+    width: 121px;
+    height: 166px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.m-phone{
+    padding-left: 20px;
+}
+.pos{
+    display: flex;
+    justify-content: center;
+}
+.img_note{
+    width: 214px;
+    height: 180px;
+}
+.pdw{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.srt{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shodaw_block{
+    border-radius: 10px;
+    box-shadow: 1px 2px 16px 3px #363A4514;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fff{
+    display: flex;
+    justify-content: center;
+}
+.hhh{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.category2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.card_phone{
+    margin-bottom: 30px;
+}
+.gg{
+    padding-top: 100px;
+}
